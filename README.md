@@ -14,3 +14,6 @@ documenation available at [docs.joshadmin.com](https://docs.joshadmin.com)
 
 ### Website Documentation
 [Here](https://docs.joshadmin.com/installation/laravel-6.html#env-file-and-setting-your-values)
+
+### CRUD Generator Package
+[https://labs.infyom.com/laravelgenerator/docs/8.0/installation](https://labs.infyom.com/laravelgenerator/docs/8.0/installation)
