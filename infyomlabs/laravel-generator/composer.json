@@ -1,0 +1,46 @@
+{
+    "name": "infyomlabs/laravel-generator",
+    "version": "1.0",
+    "description": "InfyOm Laravel Generator",
+    "keywords": [
+        "laravel",
+        "api",
+        "model",
+        "request",
+        "migration",
+        "model",
+        "crud",
+        "repository",
+        "view",
+        "test",
+        "generator",
+        "swagger"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mitul Golakiya",
+            "email": "me@mitul.me"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "path",
+            "url": "./infyomlabs/l5-repository"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "illuminate/support": "~6.0|~7.0",
+        "prettus/l5-repository": "*",
+        "laracasts/flash": "3.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "InfyOm\\Generator\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    }
+}
