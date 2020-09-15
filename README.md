@@ -7,3 +7,7 @@
 
 ## Documentation
 documenation available at [docs.joshadmin.com](https://docs.joshadmin.com)
+
+
+## Website Demo
+[Here](http://demo.joshadmin.com/admin)
