@@ -9,5 +9,8 @@
 documenation available at [docs.joshadmin.com](https://docs.joshadmin.com)
 
 
-## Website Demo
+### Website Demo
 [Here](http://demo.joshadmin.com/admin)
+
+### Website Documentation
+[Here](https://docs.joshadmin.com/installation/laravel-6.html#env-file-and-setting-your-values)
